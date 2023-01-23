@@ -1,11 +1,4 @@
-﻿OS Assignement 1: Shell Designing
-
-
-submitted to: A. Prof. Dr. Mukesh kumar 
-Giluka
-Name: Avadhesh Kumar
-Enrollment number: 20/11/EC/007
-Branch: CSE
+#Shell Designing
 
 
 This project is the implementation of SHELL to interact with Linux OS.
